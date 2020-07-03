@@ -1,12 +1,7 @@
 /* Declare and initialize variables */
 /* var Nameofthevariable = value of the variable */
 /* for instance var circleX = 50; */
-var circleX = 0;
-var bgcolor;
-var button;
-var h1;
-var input;
-var slider;
+var 
 
 /* Set up the Canvas */
 function setup() {
