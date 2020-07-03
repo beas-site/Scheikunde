@@ -1,7 +1,7 @@
 /* Declare and initialize variables */
 /* var Nameofthevariable = value of the variable */
 /* for instance var circleX = 50; */
-var 
+ 
 
 /* Set up the Canvas */
 function setup() {
