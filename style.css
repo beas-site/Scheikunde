@@ -67,7 +67,15 @@ nav ol {
   padding: 0;
   color:orange;
 }
-
+/* Style the search box inside the navigation bar */
+.nav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
 article {
   float: left;
   padding: 20px;
