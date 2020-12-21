@@ -18,6 +18,9 @@ body {
 	transition-duration: .5s;
   margin-top: 15px;
 }
+#jj {
+float: left;
+}
 #idheader {
   list-style-type: none;
   margin: 0;
