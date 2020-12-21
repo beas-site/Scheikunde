@@ -18,7 +18,10 @@ body {
 	transition-duration: .5s;
         margin-top: 15px;
 }
+#jj {
+	float: right;
 
+}
 
 #idheader {
   list-style-type: none;
