@@ -18,25 +18,7 @@ body {
 	transition-duration: .5s;
   margin-top: 15px;
 }
-  .inhoud a {
-	display: block;
-	background: navy;
-	border: none;
-	border-radius: 0px;
-	padding: 10px;
-	color: white;
-	font-size: 16px;
-        margin-top: 15px;
-}
-.inhoud a:hover {
-  background-color: white;
-  border: none;
-  border-radius: 0px;
-  padding: 10px;
-  color: navy;
-  font-size: 16px;
-  margin-top: 15px;
-}
+
 #jj {
 margin-left: 250px;
 float: right;
