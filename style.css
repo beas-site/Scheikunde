@@ -29,7 +29,8 @@ body {
   margin-top: 15px;
 }
 .inhoud a:hover {
-  background-color: orange;
+  background-color: white;
+  color: navy;
 }
 #jj {
 margin-top: 0px;
