@@ -18,7 +18,7 @@ body {
 	transition-duration: .5s;
   margin-top: 15px;
 }
-  .inhoud {
+  .inhoud a {
 	background: navy;
 	border: none;
 	border-radius: 0px;
@@ -27,7 +27,7 @@ body {
 	font-size: 16px;
         margin-top: 15px;
 }
-.inhoud a:hover a {
+.inhoud a:hover {
   background-color: white;
   border: none;
   border-radius: 0px;
