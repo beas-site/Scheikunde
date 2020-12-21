@@ -28,6 +28,9 @@ body {
 	transition-duration: .5s;
   margin-top: 15px;
 }
+.inhoud a:hover {
+  background-color: orange;
+}
 #jj {
 margin: 200px;
 float: right;
