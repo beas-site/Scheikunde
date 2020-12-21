@@ -30,9 +30,7 @@ body {
 }
 #jj {
 float: right;
-}
-#gedicht {
-float: left;
+margin-right: 15px;
 }
 #idheader {
   list-style-type: none;
