@@ -8,6 +8,16 @@ body {
   color: white;
   font-size: 250%;
 }
+  .formules {
+	background: navy;
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+	font-size: 16px;
+	transition-duration: .5s;
+  margin-top: 15px;
+}
 #idheader {
   list-style-type: none;
   margin: 0;
