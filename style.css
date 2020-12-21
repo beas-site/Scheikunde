@@ -19,6 +19,7 @@ body {
   margin-top: 15px;
 }
   .inhoud a {
+	display: block;
 	background: navy;
 	border: none;
 	border-radius: 0px;
