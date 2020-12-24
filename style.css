@@ -20,7 +20,10 @@ body {
 }
 #jj {
 	float: right;
+}
 
+#nummering {
+	  font-weight: bold;
 }
 
 #idheader {
